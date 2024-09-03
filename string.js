@@ -14,3 +14,5 @@ const num = [21, 54, 98, 36, 45, 87];
 const count = "Dahka";
 console.log(count.length);
 console.log(count[0])
+
+const name ='Tanzid'
