@@ -6,6 +6,6 @@ const person ={
     married :false,
 }
 
-// console.log(person.name);
-const inCome =(person.salary);
-// console.log(inCome)
+person.salary =30000;
+person['age'] =25
+console.log(person)
