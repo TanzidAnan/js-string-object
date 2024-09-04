@@ -5,5 +5,5 @@ console.log(total);
 
 const fastName =["Tanzid"];
 const lastName =["Anan"];
-const total1 =fastName.concat().concat(lastName);
+const total1 =fastName.concat(["marzan"]).concat(lastName);
 console.log(total1)
