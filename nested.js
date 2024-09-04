@@ -15,5 +15,8 @@ delete collage.class
 console.log(collage);
 
 
-const number =[54, 5454, 554,654, 12, 455, 898,4545];
-console.log(number)
+const numbers =[54, 5454, 554,654, 12, 455, 898,4545];
+for(const number of numbers ){
+    console.log(number)
+}
+
