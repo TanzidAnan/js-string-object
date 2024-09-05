@@ -6,4 +6,12 @@ const bottol ={
 
 }
 
-console.log(bottol)
+console.log(bottol);
+
+const person ={
+    name: 'Tanzid',
+    address: "Dhaka",
+
+}
+person.contect ='no contact';
+console.log(person)
